@@ -1,7 +1,20 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-int main(int argc, char **argv)
-{
-	printf("hello world\n");
-	return 0;
+int menor(int x, int y) {
+    return x < y ? x : y;
+}
+
+int menorde3(int x, int y, int z); // solo la declaración
+
+int main(int argc, char* argv[]) {
+    int a, b, c;
+    cout << "Escribe tres datos enteros" << endl;
+    cin >> a >> b >> c;
+    cout << "El menor de los tres números es " << menorde3(a, b, c) << endl;
+    return 0;
+}
+
+int menorde3(int x, int y, int z) {
+    return menor(menor(x, y), z);
 }
