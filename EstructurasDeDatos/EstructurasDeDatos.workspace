@@ -14,9 +14,9 @@
     <Project Name="Ejemplo9" Path="Ejemplo9/Ejemplo9.project" Active="No"/>
     <Project Name="Ejemplo10" Path="Ejemplo10/Ejemplo10.project" Active="No"/>
     <Project Name="Ejemplo11" Path="Ejemplo11/Ejemplo11.project" Active="No"/>
-    <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="Yes"/>
+    <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="No"/>
     <Project Name="Ejemplo13" Path="Ejemplo13/Ejemplo13.project" Active="No"/>
-    <Project Name="Ejemplo14" Path="Ejemplo14/Ejemplo14.project" Active="No"/>
+    <Project Name="Ejemplo14" Path="Ejemplo14/Ejemplo14.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
