@@ -1,4 +1,36 @@
 [{
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.hpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.hpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.hpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.hpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.hpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.hpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo14\\main.cpp",
   "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo14",
   "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo14\\main.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo14\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -14,6 +46,26 @@
   "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo10\\main.cpp",
   "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo10",
   "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo10\\main.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.hpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.hpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.hpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.hpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp",
+  "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos",
+  "command": "clang++ -c C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp -o C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo9\\main.cpp",
   "directory": "C:\\Users\\ivang\\OneDrive\\Documentos\\EstructurasDeDatos\\Ejemplo9",
